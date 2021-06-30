@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="64"
+   height="64"
+   id="svg2">
+  <defs
+     id="defs41" />
+  <g
+     id="g4">
+    <path
+       d="M 42,61 L 48,61 L 52,57 L 56,57 L 62,51 L 48,47 L 42,61 z"
+       id="path6"
+       style="fill:#010101;fill-opacity:0.39599998" />
+    <path
+       d="M 3,15 L 13,41 L 42,59 L 60,12 L 48,10 L 44,12 L 26,8 L 24,13 L 20.39485,20.476395 L 15.91,19.2 L 3,15 z"
+       id="path8"
+       style="fill:none;stroke:#000000;stroke-width:4" />
+    <linearGradient
+       x1="102.6"
+       y1="8.5"
+       x2="102.74"
+       y2="47.07"
+       id="gradient0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop11"
+         style="stop-color:#bababa;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop13"
+         style="stop-color:#606060;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <path
+       d="M 26,8 L 14,41 L 42,58 L 60,12 L 48,10 L 44,12 L 26,8 z"
+       id="path15"
+       style="fill:url(#gradient0)" />
+    <linearGradient
+       x1="103.24"
+       y1="12.68"
+       x2="103.39"
+       y2="55.34"
+       id="gradient1"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop18"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop20"
+         style="stop-color:#8e8e8e;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="78.339996"
+       y1="-26.66"
+       x2="101.46"
+       y2="12.94"
+       id="gradient2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop25"
+         style="stop-color:#9a9a9a;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop27"
+         style="stop-color:#505050;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="88.519997"
+       y1="9.5900002"
+       x2="97.540001"
+       y2="51.290001"
+       id="gradient3"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop32"
+         style="stop-color:#d6d6d6;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop34"
+         style="stop-color:#7d7d7d;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <path
+       d="M 3,15 L 13,41 L 42,59 L 38,30 L 3,15 z"
+       id="path36"
+       style="fill:url(#gradient3)" />
+    <path
+       d="M 3,15 L 38,30 L 42,59 L 40.5,28 L 3,15 z"
+       id="path38"
+       style="fill:#515151;fill-opacity:1" />
+  </g>
+</svg>

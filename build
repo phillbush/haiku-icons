@@ -1,0 +1,181 @@
+#!/bin/sh
+
+builddir="Haiku"
+target="$1"
+
+usage() {
+	echo "usage: build target" >&2
+	exit 1
+}
+
+# check if target is "scalable" or has form "NxN" (like 64x64)
+case $1 in
+"scalable")                    ;;
+"x" | *[!0-9]*x*[!0-9]*) usage ;;
+*x*)                           ;;
+*)                       usage ;;
+esac
+
+# make target directories and categories subdirectories
+mkdir -p "$builddir/$target/actions" \
+	 "$builddir/$target/apps" \
+	 "$builddir/$target/categories" \
+	 "$builddir/$target/devices" \
+	 "$builddir/$target/emblems" \
+	 "$builddir/$target/emotes" \
+	 "$builddir/$target/mimetypes" \
+	 "$builddir/$target/places" \
+	 "$builddir/$target/status" \
+
+# set variables; if building fixed icons, convert them to png
+case "$target" in
+"scalable")
+	suffix="svg"
+	cmd="cp"
+	cat >>"$builddir/index.theme" <<-EOF
+
+		[$target/actions]
+		Context=Actions
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/apps]
+		Context=Applications
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/categories]
+		Context=Categories
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/devices]
+		Context=Devices
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/emblems]
+		Context=Emblems
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/emotes]
+		Context=Emotes
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/mimetypes]
+		Context=MimeTypes
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/places]
+		Context=Places
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+
+		[$target/status]
+		Context=Status
+		Size=64
+		MinSize=8
+		MaxSize=512
+		Type=Scalable
+	EOF
+	;;
+*)
+	suffix="png"
+	cmd="mv"
+	size="${target%%x*}"
+	inkscape --export-type=png --export-height="$size" --export-width="$size" svg/*.svg
+	cat >>"$builddir/index.theme" <<-EOF
+
+		[$target/actions]
+		Context=Actions
+		Size=$size
+		Type=Fixed
+
+		[$target/apps]
+		Context=Applications
+		Size=$size
+		Type=Fixed
+
+		[$target/categories]
+		Context=Categories
+		Size=$size
+		Type=Fixed
+
+		[$target/devices]
+		Context=Devices
+		Size=$size
+		Type=Fixed
+
+		[$target/emblems]
+		Context=Emblems
+		Size=$size
+		Type=Fixed
+
+		[$target/emotes]
+		Context=Emotes
+		Size=$size
+		Type=Fixed
+
+		[$target/mimetypes]
+		Context=MimeTypes
+		Size=$size
+		Type=Fixed
+
+		[$target/places]
+		Context=Places
+		Size=$size
+		Type=Fixed
+
+		[$target/status]
+		Context=Status
+		Size=$size
+		Type=Fixed
+	EOF
+	;;
+esac
+
+# copy/move files to their category subdirectory
+while read -r file subdir
+do
+	"$cmd" "svg/$file.$suffix" "$builddir/$target/$subdir"
+done <"files"
+
+# create links
+while read -r subdir link file
+do
+	ln -s "$file.$suffix" "$builddir/$target/$subdir/$link.$suffix"
+done <"links"
+
+# edit index.theme
+ed "$builddir/index.theme" <<-EOF
+	/^Directories/
+	s/\$/$target\/actions,/
+	s/\$/$target\/apps,/
+	s/\$/$target\/categories,/
+	s/\$/$target\/devices,/
+	s/\$/$target\/emblems,/
+	s/\$/$target\/emotes,/
+	s/\$/$target\/mimetypes,/
+	s/\$/$target\/places,/
+	s/\$/$target\/status,/
+	w
+EOF
