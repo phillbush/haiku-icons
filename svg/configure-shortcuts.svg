@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.5137"
+        d="M25.67 8.35V18.48L31.48 21.85L37.3 18.48V8.35L43.11 15.1V25.22L37.3 30.29V52.22C37.3 52.22 37.3 55.6 31.48 55.6C25.67 55.6 25.67 52.22 25.67 52.22V30.29L19.86 25.22V15.1L25.67 8.35z
+           M25.67 8.35V18.48L31.48 21.85L37.3 18.48V8.35L43.11 15.1V25.22L37.3 30.29V52.22C37.3 52.22 37.3 55.6 31.48 55.6C25.67 55.6 25.67 52.22 25.67 52.22V30.29L19.86 25.22V15.1L25.67 8.35z"
+        transform="matrix(1.2151,0,0,1.0634,-3.2744,0.4691)"
+  />
+  <path style="fill:none; stroke:#010000; stroke-width:6.2797; stroke-linejoin:round"
+        d="M25.67 8.35V18.48L31.48 21.85L37.3 18.48V8.35L43.11 15.1V25.22L37.3 30.29V52.22C37.3 52.22 37.3 55.6 31.48 55.6C25.67 55.6 25.67 52.22 25.67 52.22V30.29L19.86 25.22V15.1L25.67 8.35z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="102.43" y1="-113.1" x2="125.36" y2="-95.06">
+   <stop offset="0" stop-color="#ebebeb"/>
+   <stop offset="1" stop-color="#adadad"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M25.67 8.35V18.48L31.48 21.85L37.3 18.48V8.35L43.11 15.1V25.22L37.3 30.29V52.22C37.3 52.22 37.3 55.6 31.48 55.6C25.67 55.6 25.67 52.22 25.67 52.22V30.29L19.86 25.22V15.1L25.67 8.35z"
+  />
+ </g>
+</svg>

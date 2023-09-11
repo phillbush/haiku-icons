@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#000000; fill-opacity:0.4431"
+        d="M43 11L50 44L41 52L61 41C60 37 49 14 43 11z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:4"
+        d="M50 44V34C50 23.5 43.94 12.97 34 8C27.76 4.87 22 6 18.06 7.91C14 10 9.55 14.41 9.55 14.41C7.31 16.46 6 19.71 6 23.98L5 29C5 32 14 37 17 32C24.78 19.01 22.06 24.27 28 31C33.92 37.71 31 40 32 41C42.59 51.59 50 48 50 44z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="65.99" y1="-81.76" x2="122.5" y2="-25.25">
+   <stop offset="0.2549" stop-color="#1942e7"/>
+   <stop offset="0.5215" stop-color="#97c3ff"/>
+   <stop offset="0.8823" stop-color="#032288"/>
+   <stop offset="1" stop-color="#203bac"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M50 44V34C50 23.5 43.94 12.97 34 8C27.76 4.87 22 6 18.06 7.91C14 10 9.55 14.41 9.55 14.41C9.55 14.41 27.37 28.52 30 28C32.61 27.46 42 48 42 48C51 45 50 48 50 44z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="82.63" y1="-50.34" x2="118.46" y2="-5.81">
+   <stop offset="0.2274" stop-color="#33a2ff"/>
+   <stop offset="0.8313" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M24 14C14.05 9 6 13.48 6 23.98L5 29C5 32 12.63 36.18 16 34C19.88 31.46 18.09 31.79 20 28C22 24 30 30 31 36C32.14 42.9 36.03 45.5 39 46C45 47 42.01 42 42.01 42C42 31.5 33.93 18.97 24 14V14z"
+  />
+  <linearGradient id="gradient2" gradientUnits="userSpaceOnUse" x1="15.05" y1="6.93" x2="44.01" y2="35.9">
+   <stop offset="0" stop-color="#97c3ff"/>
+   <stop offset="0.247" stop-color="#e3ecff"/>
+   <stop offset="1" stop-color="#3369ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient2)"
+        d="M24 14C33.3 18.64 40.97 29.97 41.92 40C41.9 29.5 35.93 16.97 26 12C19.27 8.61 13.43 9.57 10.33 13.78C13.62 11.37 18.51 11.24 24 14V14z"
+  />
+  <path style="fill:#ffffff"
+        d=""
+  />
+ </g>
+</svg>
