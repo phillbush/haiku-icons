@@ -911,7 +911,6 @@ apps FBReader accessories-dictionary
 apps xournal alacarte
 apps fontmatrix gnome-font-viewer
 apps atril ../actions/acrobat
-apps qpdfview ../actions/acrobat
 apps Thunar system-file-manager
 apps access preferences-desktop-accessibility
 apps accessibility-directory preferences-desktop-accessibility
@@ -969,7 +968,7 @@ apps office-date evolution-calendar
 apps openterm utilities-terminal
 apps org.inkscape.Inkscape inkscape
 apps org.meld.Meld kdiff3
-apps org.nomacs.ImageLounge eog
+apps org.nomacs.ImageLounge nomacs
 apps org.xfce.orage calendar
 apps org.xfce.terminal utilities-terminal
 apps plan evolution-calendar
@@ -997,6 +996,7 @@ apps xfwm4 preferences-system-windows
 apps ximian-evolution-email evolution-mail
 apps xscreensaver preferences-desktop-screensaver
 apps zen-icon system-software-update
+apps microtube smtube
 categories gnome-applications applications-office
 categories gnome-control-center preferences-desktop
 categories gnome-devel applications-development

@@ -1,6 +1,8 @@
+FBReader apps
 PrePostCondition actions
 QtProject-designer apps
 SoulseekQt apps
+abiword apps
 accept_signal actions
 accessories-calculator apps
 accessories-character-map apps
@@ -236,14 +238,11 @@ backup actions
 baobab apps
 battery devices
 battery-caution status
-battery-charged status
-battery-full status
-battery-missing status
-battery-low status
-battery-low-charging status
 battery-caution-charging-symbolic status
+battery-charged status
 battery-empty-charging-symbolic status
 battery-empty-symbolic status
+battery-full status
 battery-full-charged-symbolic status
 battery-full-charging-symbolic status
 battery-good-charging-symbolic status
@@ -258,6 +257,9 @@ battery-level-60-charging-symbolic status
 battery-level-60-symbolic status
 battery-level-80-charging-symbolic status
 battery-level-80-symbolic status
+battery-low status
+battery-low-charging status
+battery-missing status
 battery-ups devices
 bboxnext actions
 bboxprev actions
@@ -348,6 +350,7 @@ contact-new actions
 contact-unknown actions
 contrast actions
 cookies actions
+coolreader apps
 coordinate actions
 copy-coordinates actions
 cross-shape actions
@@ -355,6 +358,7 @@ crosshairs actions
 cupsprinter devices
 current_line_follows_video actions
 curve-connector actions
+cutemarked apps
 dashboard-show actions
 database-change-key actions
 database-index actions
@@ -545,6 +549,7 @@ edit-table-insert-row-below actions
 edit-table-insert-row-under actions
 edit-text-frame-update actions
 edit-undo actions
+eiskaltdcpp apps
 emblem-cool emblems
 emblem-default emblems
 emblem-desktop emblems
@@ -1235,10 +1240,12 @@ list-add-font actions
 list-add-user actions
 list-remove actions
 list-remove-user actions
+lmms apps
 logviewer apps
 love actions
 love-amarok actions
 luckybackup apps
+lyx apps
 mail-attachment actions
 mail-attachment status
 mail-client apps
@@ -1407,6 +1414,7 @@ node-type-cusp actions
 node-type-smooth actions
 node-type-symmetric actions
 noisereduction actions
+nomacs apps
 notepadqq apps
 notifications actions
 notifications-disabled actions
@@ -1446,11 +1454,13 @@ office-chart-scatter actions
 oilpaint actions
 okteta apps
 okular apps
+openshot apps
 opera apps
 org.flameshot.Flameshot apps
 org.gnome.Epiphany apps
 org.kde.neochat apps
 org.kde.neochat.tray apps
+otter-browser apps
 overexposure actions
 overflow-menu actions
 overflow-menu-left actions
@@ -1487,6 +1497,7 @@ playrate_plus actions
 plugins actions
 podcast-amarok actions
 port actions
+ppsspp apps
 precondition actions
 preferences-desktop categories
 preferences-desktop-accessibility apps
@@ -1535,6 +1546,9 @@ qbittorrent apps
 qclipper apps
 qdbusviewer apps
 qelectrotech apps
+qmmp apps
+qmplay apps
+qpdfview apps
 qtcreator apps
 quassel apps
 question actions
@@ -1544,6 +1558,7 @@ quickopen-file actions
 quickopen-function actions
 quiterss apps
 qupzilla apps
+qvim apps
 radio devices
 raindrop actions
 rar mimetypes
@@ -1615,6 +1630,7 @@ smiley actions
 smiley-add actions
 smiley-shape actions
 smooth actions
+smtube apps
 snap actions
 snap-angle actions
 snap-bounding-box-center actions
@@ -1667,6 +1683,7 @@ stock_folder places
 stock_shared-by-me places
 stock_shared-to-me places
 story-editor actions
+strawberry apps
 stroke-cap-butt actions
 stroke-cap-round actions
 stroke-cap-square actions
@@ -1833,6 +1850,7 @@ trash-empty actions
 trashcan_empty places
 trim-margins actions
 trim-to-selection actions
+tuxcards apps
 typewriter actions
 uav-quadcopter devices
 umbrello apps
@@ -2075,6 +2093,7 @@ xml-node-duplicate actions
 xml-text-new actions
 xsnow apps
 y-zoom-in actions
+youtube-dl-gui apps
 zone-in actions
 zone-out actions
 zoom actions
