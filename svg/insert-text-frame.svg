@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:2.3504"
+        d="M10.63 38.85V30.89C10.63 28.62 15.49 10.44 16.7 10.44C17.92 10.44 22.78 28.62 22.78 30.89V38.85
+           M56.77 16.13C56.77 12.98 54.04 10.44 50.7 10.44C47.32 10.44 44.63 12.98 44.63 16.13V32.03C44.63 35.16 47.32 37.71 50.7 37.71C54.04 37.71 56.77 35.16 56.77 32.03
+           M39.77 29.76C39.77 26.6 37.06 24.08 33.7 24.08C37.06 24.08 39.77 21.54 39.77 18.4V16.13C39.77 12.98 37.06 10.44 33.7 10.44H27.63V37.71H33.7C37.06 37.71 39.77 35.16 39.77 32.03V29.76z
+           M28.85 24.08H33.7
+           M11.84 30.89H21.56"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2.3504"
+        d="M8.21 36.57V28.62C8.21 26.35 13.06 8.17 14.27 8.17C15.49 8.17 20.35 26.35 20.35 28.62V36.57
+           M54.34 13.86C54.34 10.71 51.61 8.17 48.27 8.17C44.9 8.17 42.2 10.71 42.2 13.86V29.76C42.2 32.89 44.9 35.44 48.27 35.44C51.61 35.44 54.34 32.89 54.34 29.76
+           M37.34 27.49C37.34 24.33 34.63 21.81 31.27 21.81C34.63 21.81 37.34 19.27 37.34 16.13V13.86C37.34 10.71 34.63 8.17 31.27 8.17H25.21V35.44H31.27C34.63 35.44 37.34 32.89 37.34 29.76V27.49z
+           M9.42 28.62H19.13
+           M26.42 21.81H31.27"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:5.5805; stroke-linejoin:round"
+        d="M20.85 49.15H43.33L32.09 60.25L20.85 49.15z"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+  <path style="fill:none; stroke:#005900; stroke-width:5.5805; stroke-linejoin:round"
+        d="M18.04 46.38H40.52L29.28 57.47L18.04 46.38z"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="180.99" y1="46.38" x2="180.99" y2="57.47">
+   <stop offset="0" stop-color="#80ff80"/>
+   <stop offset="1" stop-color="#00b200"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M18.04 46.38H40.52L29.28 57.47L18.04 46.38z"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+  <path style="fill:none; stroke:#000000; stroke-width:2.1215"
+        d="M2.06 2.05V39.94H61.92V2.05H2.06z"
+        transform="matrix(0.9677,0,0,0.9999,1.0325,1)"
+  />
+ </g>
+</svg>

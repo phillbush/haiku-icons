@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#767676; fill-opacity:0.8352"
+        d="M10 62V55L56 56V9H62V62H10z
+           M9 54H14V16H54L55 10H8L9 54z"
+  />
+  <path style="fill:none; stroke:#b2b2b2; stroke-width:3.425; stroke-linecap:round; stroke-linejoin:round"
+        d="M3.72 2.95H61.26V61.19H3.72V2.95z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+  <path style="fill:#767676; fill-opacity:0.8352"
+        d="M4.98 30.48H60V33.73H4.98V30.48z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+  <path style="fill:#767676; fill-opacity:0.8352"
+        d="M31.12 4.49H33.86V59.72H31.12V4.49z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+  <path style="fill:#fcaf3e"
+        d="M3.49 2.95V61.26H61.29V2.95H3.49z
+           M7.74 7.73H57.25V56.48H7.74V7.73z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+  <path style="fill:#ce5c00"
+        d="M3.49 1.33C2.73 1.33 2.12 2.05 2.12 2.95V61.26C2.12 62.16 2.73 62.88 3.49 62.88H61.29C62.05 62.88 62.67 62.16 62.67 61.26V2.95C62.67 2.05 62.05 1.33 61.29 1.33H3.49z
+           M4.87 4.58H59.92V59.63H4.87V4.58z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+  <path style="fill:#ce5c00"
+        d="M7.74 7.73V56.48H57.24V7.73H7.74z
+           M10.49 10.98H54.49V53.22H10.49V10.98z"
+        transform="matrix(0.9179,0,0,0.9026,2.1649,3.121)"
+  />
+ </g>
+</svg>

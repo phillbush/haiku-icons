@@ -1,212 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="64"
-   height="64"
-   color-interpolation="linearRGB"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="folder-"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
-  <metadata
-     id="metadata43">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs41">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       id="perspective45" />
-    <inkscape:perspective
-       id="perspective35"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 32 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective2462"
-       inkscape:persp3d-origin="32 : 21.333333 : 1"
-       inkscape:vp_z="64 : 32 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 32 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
-  <sodipodi:namedview
-     inkscape:window-height="667"
-     inkscape:window-width="640"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#ffffff"
-     id="base"
-     showgrid="false"
-     inkscape:zoom="7.28125"
-     inkscape:cx="32"
-     inkscape:cy="30.351931"
-     inkscape:window-x="349"
-     inkscape:window-y="52"
-     inkscape:current-layer="svg2" />
-  <g
-     id="g4">
-    <path
-       style="fill:#010101; fill-opacity:0.396"
-       d="M42 61H48L52 57H56L62 51L48 47L42 61z"
-       id="path6" />
-    <path
-       style="fill:none; stroke:#000000; stroke-width:4"
-       d="M3 15L13 41L42 59L60 12L48 10L44 12L26 8L24 13L16 11L15.91 19.2L3 15z"
-       id="path8" />
-    <linearGradient
-       id="gradient0"
-       gradientUnits="userSpaceOnUse"
-       x1="102.6"
-       y1="8.5"
-       x2="102.74"
-       y2="47.07">
-      <stop
-         offset="0"
-         stop-color="#face79"
-         id="stop11" />
-      <stop
-         offset="1"
-         stop-color="#bc4105"
-         id="stop13" />
-    </linearGradient>
-    <path
-       style="fill:url(#gradient0)"
-       d="M26 8L14 41L42 58L60 12L48 10L44 12L26 8z"
-       id="path15" />
-    <linearGradient
-       id="gradient1"
-       gradientUnits="userSpaceOnUse"
-       x1="103.24"
-       y1="12.68"
-       x2="103.39"
-       y2="55.34">
-      <stop
-         offset="0"
-         stop-color="#ffffff"
-         id="stop18" />
-      <stop
-         offset="1"
-         stop-color="#8e8e8e"
-         id="stop20" />
-    </linearGradient>
-    <path
-       style="fill:url(#gradient1)"
-       d="M16 11V41L42 57L49 22L16 11z"
-       id="path22" />
-    <linearGradient
-       id="gradient2"
-       gradientUnits="userSpaceOnUse"
-       x1="78.34"
-       y1="-26.66"
-       x2="101.46"
-       y2="12.94">
-      <stop
-         offset="0"
-         stop-color="#9a9a9a"
-         id="stop25" />
-      <stop
-         offset="1"
-         stop-color="#505050"
-         id="stop27" />
-    </linearGradient>
-    <path
-       style="fill:url(#gradient2)"
-       d="M16 11L49 22L42 57L52 20.37L16 11z"
-       id="path29" />
-    <linearGradient
-       id="gradient3"
-       gradientUnits="userSpaceOnUse"
-       x1="88.52"
-       y1="9.59"
-       x2="97.54"
-       y2="51.29">
-      <stop
-         offset="0"
-         stop-color="#ffe2ac"
-         id="stop32" />
-      <stop
-         offset="1"
-         stop-color="#f49806"
-         id="stop34" />
-    </linearGradient>
-    <path
-       style="fill:url(#gradient3)"
-       d="M3 15L13 41L42 59L38 30L3 15z"
-       id="path36" />
-    <path
-       style="fill:#a03d03"
-       d="M3 15L38 30L42 59L40.5 28L3 15z"
-       id="path38" />
-  </g>
-  <g
-     transform="matrix(0.8929291,0.4501972,-0.4501972,0.8929291,31.919087,-14.127208)"
-     id="g2464">
-    <linearGradient
-       y2="26.91"
-       x2="103.7"
-       y1="-5.5500002"
-       x1="83.050003"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2466">
-      <stop
-         id="stop2468"
-         stop-color="#faf9d2"
-         offset="0" />
-      <stop
-         id="stop2470"
-         stop-color="#dddb8f"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       y2="23.280001"
-       x2="56.810001"
-       y1="6.0599999"
-       x1="34.740002"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient2472">
-      <stop
-         id="stop2474"
-         stop-color="#010101"
-         offset="0" />
-      <stop
-         id="stop22"
-         stop-color="#807e5d"
-         offset="1" />
-    </linearGradient>
-    <path
-       id="path26"
-       d="M 30,5.99 L 24,13.99 L 34,21.99 L 34,33.99 L 42,19.99 L 30,11.99 L 30,5.99 z"
-       style="fill:none;stroke:#ffd306;stroke-width:4" />
-    <path
-       id="path28"
-       d="M 30,5.99 L 24,13.99 L 34,21.99 L 34,33.99 L 42,19.99 L 30,11.99 L 30,5.99 z"
-       style="fill:#fffdc7" />
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:5.0001; stroke-linecap:round; stroke-linejoin:round"
+        d="M12.48 54.48H54.99L52.49 11.99H42.49L39.99 16.99H14.99L12.48 54.48z
+           M12.47 54.48L9.97 29.48H57.49L54.99 54.48H12.47z"
+  />
+  <path style="fill:none; stroke:#bf5000; stroke-width:5.0001; stroke-linecap:round; stroke-linejoin:round"
+        d="M9.99 51.98H52.49L49.99 9.49H39.99L37.49 14.49H12.48L9.99 51.98z"
+  />
+  <path style="fill:#ffc800"
+        d="M9.99 51.98H52.49L49.99 9.49H39.99L37.49 14.49H12.48L9.99 51.98z"
+  />
+  <path style="fill:none; stroke:#bf5000; stroke-width:5.0001; stroke-linecap:round; stroke-linejoin:round"
+        d="M9.97 51.98L7.47 26.98H54.99L52.49 51.98H9.97z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="165" y1="29.48" x2="165" y2="54.48">
+   <stop offset="0" stop-color="#ffea80"/>
+   <stop offset="1" stop-color="#ffbb00"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M9.97 51.98L7.47 26.98H54.99L52.49 51.98H9.97z"
+  />
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4; stroke-linecap:round; stroke-linejoin:round"
+        d="M23 4C12.5 4 4 12.5 4 23C4 33.48 12.5 42 23 42C33.48 42 42 33.48 42 23C42 12.5 33.48 4 23 4z"
+        transform="matrix(0.5681,0,0,0.5909,37.9998,37.9998)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:8; stroke-linecap:round; stroke-linejoin:round"
+        d="M21 2C10.5 2 2 10.5 2 21C2 31.48 10.5 40 21 40C31.48 40 40 31.48 40 21C40 10.5 31.48 2 21 2z"
+        transform="matrix(0.5681,0,0,0.5909,37.9998,36.9998)"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="128" y1="1.99" x2="128" y2="40">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M21 2C10.5 2 2 10.5 2 21C2 31.48 10.5 40 21 40C31.48 40 40 31.48 40 21C40 10.5 31.48 2 21 2z"
+        transform="matrix(0.5681,0,0,0.5909,37.9998,36.9998)"
+  />
+  <path style="fill:#ffffff"
+        d="M34 16L25 15L21 6L17 15L9 16L14 23L13 32L21 28L29 32L28 23L34 16z"
+        transform="matrix(0.5681,0,0,0.5909,37.9998,36.9998)"
+  />
+ </g>
 </svg>

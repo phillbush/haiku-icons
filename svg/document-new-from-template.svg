@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#000000; stroke-opacity:0.4; stroke-width:4.8435; stroke-linecap:round; stroke-linejoin:round"
+        d="M16.77 9.89H52.59V56.52H16.77V9.89z"
+  />
+  <path style="fill:none; stroke:#000080; stroke-width:4.8435; stroke-linecap:round; stroke-linejoin:round"
+        d="M14.38 7.42H50.2V54.08H14.38V7.42z"
+  />
+  <linearGradient id="gradient0" gradientUnits="userSpaceOnUse" x1="160.07" y1="7.42" x2="160.07" y2="54.08">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#d9d9ff"/>
+  </linearGradient>
+  <path style="fill:url(#gradient0)"
+        d="M14.38 7.42H50.2V54.08H14.38V7.42z"
+  />
+  <path style="fill:#000000; fill-opacity:0.4"
+        d="M47.48 33.48C39.74 33.48 33.48 39.74 33.48 47.48C33.48 55.21 39.74 61.49 47.48 61.49C55.21 61.49 61.49 55.21 61.49 47.48C61.49 39.74 55.21 33.48 47.48 33.48z"
+        transform="matrix(1,0,0,1,1,2)"
+  />
+  <path style="fill:none; stroke:#004080; stroke-width:5.3326; stroke-linecap:round; stroke-linejoin:round"
+        d="M45.99 33.33C38.99 33.33 33.33 38.99 33.33 45.99C33.33 52.97 38.99 58.65 45.99 58.65C52.97 58.65 58.65 52.97 58.65 45.99C58.65 38.99 52.97 33.33 45.99 33.33z"
+  />
+  <linearGradient id="gradient1" gradientUnits="userSpaceOnUse" x1="117.31" y1="33.31" x2="117.31" y2="58.65">
+   <stop offset="0" stop-color="#abd5ff"/>
+   <stop offset="1" stop-color="#006cd9"/>
+  </linearGradient>
+  <path style="fill:url(#gradient1)"
+        d="M45.99 33.33C38.99 33.33 33.33 38.99 33.33 45.99C33.33 52.97 38.99 58.65 45.99 58.65C52.97 58.65 58.65 52.97 58.65 45.99C58.65 38.99 52.97 33.33 45.99 33.33z"
+  />
+  <path style="fill:#ffffff"
+        d="M54.65 42.65L48.65 41.99L45.99 35.99L43.33 41.99L37.99 42.65L41.33 47.33L40.65 53.33L45.99 50.65L51.33 53.33L50.65 47.33L54.65 42.65z"
+  />
+ </g>
+</svg>

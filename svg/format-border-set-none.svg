@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:none; stroke:#929292; stroke-opacity:0.7882; stroke-width:3.369; stroke-linecap:round; stroke-linejoin:round"
+        d="M3.69 2.92H60.29V60.21H3.69V2.92z"
+        transform="matrix(0.9332,0,0,0.9175,2.1339,3.1026)"
+  />
+  <path style="fill:#8d8d8d; fill-opacity:0.8"
+        d="M4.93 30H59.05V33.2H4.93V30z"
+        transform="matrix(0.9332,0,0,0.9175,2.1339,3.1026)"
+  />
+  <path style="fill:#8d8d8d; fill-opacity:0.8"
+        d="M30.64 4.44H33.34V58.77H30.64V4.44z"
+        transform="matrix(0.9332,0,0,0.9175,2.1339,3.1026)"
+  />
+ </g>
+</svg>

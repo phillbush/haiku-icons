@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4784"
+        d="M57.19 10.34L3.2 10.14L3.23 3.14L57.22 4.34L57.19 10.34z"
+        transform="matrix(0.9999,0.0064,-0.0064,0.9999,5.0441,4.8052)"
+  />
+  <path style="fill:none; stroke:#868686; stroke-opacity:0.8862; stroke-width:3.093; stroke-linecap:round; stroke-linejoin:round"
+        d="M58.53 59.56L6.53 59.36L6.73 6.8L58.73 6.99L58.53 59.56z"
+  />
+  <path style="fill:#757575; fill-opacity:0.8"
+        d="M57.48 34.71L7.76 34.52L7.77 31.59L57.49 31.77L57.48 34.71z"
+  />
+  <path style="fill:#757575; fill-opacity:0.8"
+        d="M33.78 58.07L31.3 58.06L31.48 8.21L33.96 8.22L33.78 58.07z"
+  />
+  <path style="fill:#ce5c00"
+        d="M59.79 13.31C60.5 13.31 61.07 13.22 61.07 13.11L61.1 5.67C61.1 5.56 60.53 5.47 59.81 5.46L5.82 5.27C5.12 5.26 4.54 5.35 4.54 5.46L4.51 12.9C4.51 13.01 5.09 13.11 5.79 13.11L59.79 13.31z"
+  />
+  <path style="fill:#fcaf3e"
+        d="M58.92 10.92L58.93 7.92L6.69 7.73L6.68 10.73L58.92 10.92z"
+  />
+ </g>
+</svg>

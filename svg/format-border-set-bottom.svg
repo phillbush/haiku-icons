@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.1" width="64" height="64" color-interpolation="linearRGB"
+     xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path style="fill:#010101; fill-opacity:0.4784"
+        d="M8 55H62V62H8V55z"
+        transform="matrix(1,0,0,1,-0,-0)"
+  />
+  <path style="fill:none; stroke:#868686; stroke-opacity:0.8862; stroke-width:3.093; stroke-linecap:round; stroke-linejoin:round"
+        d="M6.48 5.78H58.47V58.34H6.48V5.78z"
+  />
+  <path style="fill:#757575; fill-opacity:0.8"
+        d="M7.61 30.62H57.34V33.56H7.61V30.62z"
+  />
+  <path style="fill:#757575; fill-opacity:0.8"
+        d="M31.23 7.17H33.72V57.02H31.23V7.17z"
+  />
+  <path style="fill:#ce5c00"
+        d="M5.39 52.03C4.68 52.03 4.11 52.12 4.11 52.23V59.67C4.11 59.78 4.68 59.87 5.39 59.87H59.38C60.09 59.87 60.67 59.78 60.67 59.67V52.23C60.67 52.12 60.09 52.03 59.38 52.03H5.39z"
+  />
+  <path style="fill:#fcaf3e"
+        d="M6.26 54.41V57.42H58.5V54.41H6.26z"
+  />
+ </g>
+</svg>
