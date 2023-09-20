@@ -245,6 +245,10 @@ actions gnumeric-subscript format-text-subscript
 actions gnumeric-superscript format-text-superscript
 actions gnumeric-ungroup object-ungroup
 actions gnumeric-visible visibility
+actions go-home-symbolic go-home
+actions go-up-symbolic go-up
+actions go-previous-symbolic go-previous
+actions go-next-symbolic go-next
 actions go-down-search go-down
 actions go-first-view go-first
 actions go-first-view-page go-first
@@ -546,7 +550,8 @@ actions offline network-disconnect
 actions offline-settings network-connect
 actions online network-connect
 actions open-for-editing document-edit
-actions open-menu-symbolic gapplication-menu
+actions open-menu-symbolic application-menu
+actions gapplication-menu application-menu
 actions output_win dialog-messages
 actions package code-block
 actions page-zoom gzoom-fit-best
